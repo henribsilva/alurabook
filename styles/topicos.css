@@ -18,6 +18,7 @@
 
 .tópicos_item {
     margin: 2em 0.5em;
+    list-style-type: none;
 }
 
 .tópico_link {
